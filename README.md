@@ -81,7 +81,7 @@ Para clonar e executar este aplicativo, você precisará do [Git](https://git-sc
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/giordanocassini/handsOn3.git
+$ git clone https://github.com/NeryVictor/laVieHandOn3.git
 
 # Install dependencies
 $ npm install
