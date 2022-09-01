@@ -21,7 +21,7 @@
  
 ✨ Client
 ===============
-Um grupo de psicólogos criau a
+Um grupo de psicólogos criaram a
 clínica La Vie - Saúde Mental que oferece
 diversos tipos de terapia.
 
